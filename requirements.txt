@@ -1,3 +1,4 @@
 aiogram
 yt-dlp
 python-dotenv
+aiogram==2.25.1
